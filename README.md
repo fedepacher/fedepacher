@@ -5,26 +5,29 @@
 
 ## Projects:
 1. [Income Score](https://github.com/fedepacher/CreditScoring-MOX)
-     * **Description**: The project predict the credit score af a client.
-     * **Technologies Used**: The notebooks uses Random Forest Regressor and Random Forest Classifier.
+     * **Description**: The project predicts the credit score of a client.
+     * **Technologies Used**: The notebooks use Random Forest Regressor and Random Forest Classifier.
   
 2. [Movies Recomendation](https://github.com/fedepacher/RecomendationML)
-     * **Description**: The project predict the users’ film preferences based on their past choices and behavior.
+     * **Description**: The project predicts the users’ film preferences based on their past choices and behavior.
      * **Technologies Used**: The notebooks uses cosine_similarity.
   
 3. [Massive Open Online Course Analysis](https://github.com/fedepacher/MOOCProject)
      * **Description**: Analysis to present data on course revenue, in order to know which Course has the highest revenue.
-     * **Technologies Used**: The notebooks uses web scraping techniques to get data from web sites. A Power Bi dashboard is presented to show results.
+     * **Technologies Used**: Notebooks use web scraping techniques to get data from websites. A Power Bi dashboard is presented to show results.
   
 4. [Hospitalization](https://github.com/fedepacher/Hospitalization-DS)
-     * **Description**: Analysis of characteristics of patients with a certain type of disease that end up in hospitalization.
-     * **Technologies Used**: The notebooks uses Decision Tree Classifier, Confision matrix, Cross Validation.
+     * **Description**: Analysis of characteristics of patients with a certain type of disease who are hospitalized.
+     * **Technologies Used**: The notebooks use Decision Tree Classifier, Confusion matrix, Cross Validation.
   
 5. [CreateMySQLwithCSV](https://github.com/fedepacher/CreateMySQLwithCSV)
      * **Description**: Script to create MySQL DB based on CSV or Excel files.
      * **Technologies Used**: Python, Workbench.
 
-
+6. [Credit Card Fraud Detection](https://github.com/fedepacher/Credit-Card-Detection-Fraud)
+     * **Description**: Explore the best model for credit card fraud detection.
+     * **Technologies Used**: Python, K Neighbors Classifier, SVC, Gaussian Naive Bayes, Decision Tree Classifier, Random Forest Classifier, XGB Classifier, LGBM Classifier, Gradient     
+       Boosting Classifier, Ada Boost Classifier, Logistic Regression.
 
 - 💬 Ask me about **python, pandas, numpy, sickit-learn, seaborn, AI, and more**
 
