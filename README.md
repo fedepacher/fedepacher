@@ -20,14 +20,14 @@
      * **Description**: Analysis of characteristics of patients with a certain type of disease who are hospitalized.
      * **Technologies Used**: The notebooks use Decision Tree Classifier, Confusion matrix, Cross Validation.
   
-5. [CreateMySQLwithCSV](https://github.com/fedepacher/CreateMySQLwithCSV)
+5. [Create Database Based on CSV and Excel Files](https://github.com/fedepacher/CreateMySQLwithCSV)
      * **Description**: Script to create MySQL DB based on CSV or Excel files.
      * **Technologies Used**: Python, Workbench.
 
 6. [Credit Card Fraud Detection](https://github.com/fedepacher/Credit-Card-Detection-Fraud)
      * **Description**: Explore the best model for credit card fraud detection.
-     * **Technologies Used**: Python, K Neighbors Classifier, SVC, Gaussian Naive Bayes, Decision Tree Classifier, Random Forest Classifier, XGB Classifier, LGBM Classifier, Gradient     
-       Boosting Classifier, Ada Boost Classifier, Logistic Regression.
+     * **Technologies Used**: Python, K Neighbors Classifier, SVC, Gaussian Naive Bayes, Decision Tree Classifier, Random Forest Classifier, XGB Classifier, LGBM Classifier,
+       Gradient Boosting Classifier, Ada Boost Classifier, Logistic Regression.
 
 - 💬 Ask me about **python, pandas, numpy, sickit-learn, seaborn, AI, and more**
 
