@@ -32,6 +32,14 @@
 7. [Waiter Tips Prediction](https://github.com/fedepacher/WaiterTipsPrediction)
      * **Description**: This project is about waiters' tips prediction using machine learning models.
      * **Technologies Used**: Python, Lineat Regression.
+  
+8. [Future Sales Prediction](https://github.com/fedepacher/FutureSalesPrediction)
+     * **Description**: This project is about future sales prediction using machine learning models.
+     * **Technologies Used**: Python, Lineat Regression.
+  
+9. [Cryptocurrency Price Prediction for the next 30 days](https://github.com/fedepacher/CriptocurrencyPricePrediction)
+     * **Description**: This project is about Cryptocurrency Price Prediction for the next 30 days using machine learning models.
+     * **Technologies Used**: Python, Time Series.
 
 - 💬 Ask me about **python, pandas, numpy, sickit-learn, seaborn, AI, and more**
 
