@@ -45,6 +45,10 @@
      * **Description**: This project is about stock price prediction with LSTM using machine learning models.
      * **Technologies Used**: Python, Tensorflow, Keras, Sequential, LSTM, Dense.
 
+11. [Image Classification](https://github.com/fedepacher/ImageClassification)
+     * **Description**: This project is about image classification with neuronal networks.
+     * **Technologies Used**: Python, Tensorflow, Keras, Sequential, Dense.
+
 - 💬 Ask me about **python, pandas, numpy, sickit-learn, seaborn, AI, and more**
 
 - 📫 How to reach me **fedepacher@gmail.com**
