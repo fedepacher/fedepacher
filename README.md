@@ -40,6 +40,10 @@
 9. [Cryptocurrency Price Prediction for the next 30 days](https://github.com/fedepacher/CriptocurrencyPricePrediction)
      * **Description**: This project is about Cryptocurrency Price Prediction for the next 30 days using machine learning models.
      * **Technologies Used**: Python, Time Series.
+  
+10. [Stock Price Prediction with Long Short - Term Memory](https://github.com/fedepacher/StockPricePrediction)
+     * **Description**: This project is about stock price prediction with LSTM using machine learning models.
+     * **Technologies Used**: Python, Tensorflow, Keras, Sequential, LSTM, Dense.
 
 - 💬 Ask me about **python, pandas, numpy, sickit-learn, seaborn, AI, and more**
 
