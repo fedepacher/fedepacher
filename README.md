@@ -29,6 +29,10 @@
      * **Technologies Used**: Python, K Neighbors Classifier, SVC, Gaussian Naive Bayes, Decision Tree Classifier, Random Forest Classifier, XGB Classifier, LGBM Classifier,
        Gradient Boosting Classifier, Ada Boost Classifier, Logistic Regression.
 
+7. [Waiter Tips Prediction]([https://github.com/fedepacher/Credit-Card-Detection-Fraud](https://github.com/fedepacher/WaiterTipsPrediction))
+     * **Description**: This project is about waiters' tips prediction using machine learning models.
+     * **Technologies Used**: Python, Lineat Regression.
+
 - 💬 Ask me about **python, pandas, numpy, sickit-learn, seaborn, AI, and more**
 
 - 📫 How to reach me **fedepacher@gmail.com**
