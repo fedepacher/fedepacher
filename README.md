@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **data science projects**
 
 ## Projects:
-1. [Income Score](https://github.com/fedepacher/CreditScoring-MOX)
+1. [Income Score](https://github.com/fedepacher/IncomeScore)
      * **Description**: The project predicts the credit score of a client.
      * **Technologies Used**: The notebooks use Random Forest Regressor and Random Forest Classifier.
   
