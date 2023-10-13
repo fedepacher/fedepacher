@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Federico Pacher</h1>
-<h3 align="center">A passionate data scientist/engineer from Argentina</h3>
+<h3 align="center">A passionate data engineer/scientist from Argentina</h3>
 
-- 🔭 I’m currently working on **data science projects**
+- 🔭 I’m currently working on **data engineer/science projects**
 
 ## Projects:
 1. [Income Score](https://github.com/fedepacher/IncomeScore)
