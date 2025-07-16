@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Federico Pacher</h1>
-<h3 align="center">A passionate data engineer/scientist from Argentina</h3>
+<h1 align="center">Hi 👋, I'm Fede Pacher</h1>
+<h3 align="center">A passionate Machine Learning and Python backend</h3>
 
 - 🔭 I’m currently working on **data engineer/science projects**
 
